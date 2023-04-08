@@ -1,6 +1,6 @@
 # COPC-writer
 
-# guide on installing pdal and using pipeline 
+# guide on installing pdal and using pipeline [in Conda]
 
 I encountered an issue during the initial installation when attempting to install in the base environment. There were conflicts and dependencies that I was unable to resolve, so I created a separate environment. 
 If you encounter any difficulties during installation, I recommend creating a new environment.
