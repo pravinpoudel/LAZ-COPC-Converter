@@ -1,5 +1,4 @@
 # COPC-writer
-COPC writer using pdal
 
 # guide on installing pdal and using pipeline 
 
