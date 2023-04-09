@@ -1,0 +1,2 @@
+u_campus_30m.copc.laz filter=lfs diff=lfs merge=lfs -text
+*.copc.laz filter=lfs diff=lfs merge=lfs -text
