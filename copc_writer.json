@@ -1,0 +1,16 @@
+{
+    "pipeline": [
+      {
+        "type": "readers.las",
+        "filename": "morro_20m-3857.laz"
+      },
+      
+      {
+        "type": "writers.copc",
+        "filename": "morro_20m-reprojected.copc.laz"
+      }
+    ]
+  }
+  
+
+
