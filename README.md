@@ -37,11 +37,11 @@ The pipeline file "copc_filter.json" comprises two pipelines: one is a LAS reade
 
 change input and output file name you want 
 
-To run the pipeline "copc_filter.json" that converts a LAS/LAZ file to a COPC file, you can use the following command line:
+To run the pipeline "copc_writer.json" that converts a LAS/LAZ file to a COPC file, you can use the following command line:
 
 
 ```console
-pdal pipeline copc_filter.json
+pdal pipeline copc_writer.json
 ```
 
 And the pipeline completed successfully, you can find the output file "output_file.copc" in the same directory where you ran the command.
